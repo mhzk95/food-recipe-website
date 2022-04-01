@@ -92,7 +92,7 @@ span{
 .btn-secondary{
   background-color: #630606 !important;
   border-color : #630606 !important ;
-  box-shadow: 0 15px 15px -15px black;
+  box-shadow: 0 20px 20px -15px black;
 }
 
 .btn-outline-light{
